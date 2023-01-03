@@ -98,7 +98,7 @@ form {
 .wrapper {
   display: flex;
   justify-content: space-around;
-  width: 100%;
+  width: 120%;
 }
 
 .carta-subtitle {
